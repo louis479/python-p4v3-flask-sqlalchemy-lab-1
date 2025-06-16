@@ -1,9 +1,7 @@
 from os import environ
 import re
 import json
-
 from app import app
-
 
 class TestApp:
     '''Flask application in flask_app.py'''
